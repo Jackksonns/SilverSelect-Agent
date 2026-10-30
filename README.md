@@ -144,7 +144,7 @@ pnpm dev
 
 特别感谢 [Bilibili 视频 BV1Nx38zMEyi](https://www.bilibili.com/video/BV1Nx38zMEyi/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=94ea7868838952c693d22d68de4e9dad) 提供的思路启发和部分代码参考，我们在其基础上进行了定制化开发和功能增强。
 
-本项目作者：[Jackksonns](https://github.com/Jackksonns)
+本项目作者：[Jackson ZHOU](https://github.com/Jackksonns)
 
 ## 许可证
 
